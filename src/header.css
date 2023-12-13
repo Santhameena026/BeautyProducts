@@ -1,0 +1,27 @@
+.link{
+    font-weight: 600 !important;
+    font-family:'Courier New', Courier, monospace;
+}
+.link:hover{
+    border-bottom: 3px solid rgb(238, 49, 181);
+}
+.text{
+    
+    font-size: 30px;
+    text-transform: uppercase;
+    color:aquamarine;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+.logo{
+    margin-right: 5px;
+    font-size: 35px;
+    color:deeppink;
+}
+.signupbtn{
+    background-color: deeppink;
+    border-radius: 25px;
+}
+.signupbtn:hover{
+    border:3px solid aquamarine;
+}

@@ -1,0 +1,30 @@
+.addcart{
+    background-color: aquamarine;
+    color:deeppink;
+    font-weight: 700;
+    border:3px solid rgb(249, 144, 162);
+    border-radius: 30px;
+    width:160px;
+    
+}
+.addcart:hover{
+  background-color: rgb(186, 37, 37);
+  border:3px solid aquamarine;
+}
+.brush{
+    color:rgb(68, 11, 11);
+    margin:5px ;
+    font-size: 18px;
+}
+.brush:hover{
+    color:white;
+}
+.star{
+    color:orange;
+    margin:5px;
+    font-size: 20px;
+}
+.card{
+   box-shadow: 15px 20px 20px rgba(0,0,0,0.3),inset 4px 4px 10px white; 
+}
+
